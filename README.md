@@ -4,18 +4,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monir9h&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-# 10 shahabas (Muhazirun)
-1. Abu Bakr
-2. Umar Ibn Khattab
-3. Uthman Ibn Affan
-4. Ali Ibn Abu Talib
-5. Zubair Ibn Awwam 
-6. Talha Ibn Obaidullah
-7. Sa'd Ibn Abu Waqqas
-8. Saeed Ibn Zayd
-9. Abdur-Rahman Ibn Auf
-10. Abu Obaidah al-Jarrah
-
 # VS Code shortcut
 ```
 command + shift + p 
